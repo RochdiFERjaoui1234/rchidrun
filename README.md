@@ -21,7 +21,7 @@ A unified compiler CLI that runs scripts in various programming languages using 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RochdiFERjaoui1234/rchidrun
    cd rchidrun
    ```
 2. Build the project:
